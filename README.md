@@ -2,7 +2,7 @@
 
 ## Presentation
 
-Magic Beasts is an e-commerce website where you search and buy an animal of the fantastic universe.
+Magic Beasts is an e-commerce website where you can search and buy an animal of the fantastic universe.
 
 ## Use
 
