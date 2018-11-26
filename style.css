@@ -1,0 +1,197 @@
+/* Les propriétés CSS des différents éléments HTML sont triées par ordre alphabétique. */
+
+/*A*/
+.article{
+    border:5px solid black;
+    margin-top: 20px;
+    color: black;
+    font-family: "Almendra";
+    background-color: lightgray;
+    padding: 20px;
+    font-size: 30px;
+    text-align: justify;
+}
+.imageAnimal{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+
+}
+/*B*/
+body{
+    font-family: "Almendra";
+    background-color: gray;
+}
+.button{
+    font-family: "Almendra";
+    width: 150px;
+    height: 30px;
+    margin-left:0px;
+    position: relative;
+}
+/*C*/
+.container{text-align:center;}
+/*D*/
+.divAdminList{
+    border: 2px solid black;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: lightgray;
+    text-align: center;
+}
+/*E*/
+/*F*/
+@font-face{
+    font-family: "Almendra";
+    src: url('Polices/Almendra-Regular.ttf');
+
+}
+#formEdition{
+    border: 2px solid black;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: lightgray;
+    text-align: center;
+}
+#footer{
+    background-image: url('Images/background_header.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 1600px 600px;
+    border:5px solid black;
+    margin-top: 20px;
+    color: white;
+    text-align:center;
+    font-family: "Almendra";
+}
+#formConnection{
+    border: 2px solid black;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: lightgray;
+    text-align: center;
+}
+#formFooter
+{
+    width:200px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#formInscription{
+    border: 2px solid black;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: lightgray;
+    text-align:center;
+}
+/*G*/
+/*H*/
+#header{
+    background-image: url('Images/background_header.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 1600px 600px;
+    border:5px solid black;
+    margin-top: 50px;
+    color:white;
+    text-align:center;
+}
+/*I*/
+img{
+    width: 50px;
+    height:50px;
+}
+/*J*/
+/*K*/
+/*L*/
+li{float: left;}
+li a{
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Almendra";
+    font-size: 20px;
+    color:white;
+}
+/*M*/
+#maj {font-size: 70px;}
+/*N*/
+/*O*/
+/*P*/
+#profileImage{
+    position: fixed;
+    right: 100px;
+}
+#panierImage{
+    width: 40px;
+    height: 40px;
+    position: fixed;
+}
+#profile{
+    border: 2px solid black;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+#profileDiv{
+    position: fixed;
+    border: 2px solid black;
+    background-color: lightgray;
+    margin-left:1200px;
+    top: 2px;
+    right: 2px;
+    height: 70px;
+    width: 200px;
+    text-align:center;
+
+}
+/*Q*/
+/*R*/
+#rectangle
+{
+    background-color: white;
+    height: 2px;
+    width: 100px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+/*S*/
+.submitButton{
+    font-family: "Almendra";
+    width: 80px;
+    height: 30px;
+}
+/*T*/
+#topnav{   
+    text-align:center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    color:white;
+}
+/*U*/
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    
+}
+#usersList{
+    border: 2px solid black;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: lightgray;
+    text-align:center;
+}
+/*V*/
+/*W*/
+/*X*/
+/*Y*/
+/*Z*/
